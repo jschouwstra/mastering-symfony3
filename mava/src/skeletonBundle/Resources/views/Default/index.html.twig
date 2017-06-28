@@ -1,0 +1,6 @@
+{% if name %}
+    Hello {{ name|capitalize }}! <br/>
+    {% else %}
+    mava is a web app for task management and team collaboration. <br/>
+{% endif %}
+Today is: {{"now"|date("m/d/Y")}}

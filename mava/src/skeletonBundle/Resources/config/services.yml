@@ -1,0 +1,4 @@
+services:
+#    skeleton.example:
+#        class: skeletonBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
